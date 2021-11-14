@@ -1,0 +1,23 @@
+name: mapreduce
+channels:
+  - defaults
+dependencies:
+  - autopep8=1.5.6=pyhd3eb1b0_0
+  - ca-certificates=2021.1.19=hecd8cb5_1
+  - certifi=2020.12.5=py37hecd8cb5_0
+  - libcxx=10.0.0=1
+  - libedit=3.1.20210216=h9ed2024_1
+  - libffi=3.2.1=h0a44026_1007
+  - ncurses=6.2=h0a44026_1
+  - openssl=1.1.1k=h9ed2024_0
+  - pip=21.0.1=py37hecd8cb5_0
+  - pycodestyle=2.7.0=pyhd3eb1b0_0
+  - python=3.7.6=h359304d_2
+  - readline=7.0=h1de35cc_5
+  - setuptools=52.0.0=py37hecd8cb5_0
+  - sqlite=3.33.0=hffcf06c_0
+  - tk=8.6.10=hb0a8c7a_0
+  - toml=0.10.2=pyhd3eb1b0_0
+  - wheel=0.36.2=pyhd3eb1b0_0
+  - xz=5.2.5=h1de35cc_0
+  - zlib=1.2.11=h1de35cc_3
