@@ -1,7 +1,12 @@
-# Team 3
+# PyMapReduce
 
 * MapReduce paper: https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf
 * Project description: https://docs.google.com/document/d/1UkbhEz8FCfKOIBlBW26WUGD78yTh7I_qqGOerHABjd0/edit?usp=sharing
+
+## Contributors
+- Dhruv Agarwal
+- Shantam Shorewala
+- Shubham Shetty
 
 ## Instructions
 The project uses `conda` for package, environment, and dependency management via the `environment.yml` file, which tracks the project dependencies, including the python version against which our system is stable. Please make sure you have [miniconda](https://docs.conda.io/en/latest/miniconda.html) installed before proceeding. 
